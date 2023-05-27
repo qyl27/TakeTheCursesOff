@@ -1,0 +1,8 @@
+name: TakeTheCursesOff
+version: '${version}'
+main: cx.rain.mc.takecursesoff.TakeTheCursesOff
+api-version: 1.13
+prefix: TakeTheCursesOff
+authors: [ qyl27 ]
+description: A bukkit plugin allows equipment that binding curses to be removed with the help of others.
+website: https://github.com/qyl27/TakeTheCursesOff

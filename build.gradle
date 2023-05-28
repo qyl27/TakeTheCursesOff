@@ -5,7 +5,7 @@ plugins {
 
 group = 'cx.rain.mc'
 version = '1.0.0'
-archivesBaseName = 'take-th-curses-off'
+archivesBaseName = 'take-the-curses-off'
 
 sourceCompatibility = JavaVersion.toVersion(17)
 targetCompatibility = JavaVersion.toVersion(17)

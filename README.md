@@ -2,6 +2,10 @@
 A bukkit plugin allows equipment that binding curses to be removed with the help of others.  
 让你的好朋友帮你卸下带有绑定诅咒的装备！
 
+Native Minecraft Version: 1.19.4  
+Tested Minecraft Version: 1.19.4  
+Supports Minecraft Version: 1.18-1.19.4 (Java17)  
+
 ## Usage （使用方法）
 You and your friend press `Shift` both, then let your friend right click you.  
 双方都按 `Shift` 蹲下，然后右键带有绑定诅咒装备的人。

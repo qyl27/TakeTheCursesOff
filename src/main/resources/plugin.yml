@@ -6,3 +6,6 @@ prefix: TakeTheCursesOff
 authors: [ qyl27 ]
 description: A bukkit plugin allows equipment that binding curses to be removed with the help of others.
 website: https://github.com/qyl27/TakeTheCursesOff
+permissions:
+  takethecursesoff.help_other:
+    default: true
